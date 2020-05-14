@@ -1,0 +1,5 @@
+NW RESOLUSI
+- Belajar Kotlin
+- Membuat Portal Info Les Privat
+- Membuat forum diskusi
+- Iklan Google
