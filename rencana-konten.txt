@@ -2,4 +2,6 @@ Rencana Konten Web E-learning NW
 - Membuat video materi HTML & CSS
 - membuat Video Materi Master Bootstrap
 - Membuat Video Materi PHP Native
+  * Company Profile
+  * E-commerce
 - Membuat Video Materi PHP Framework
