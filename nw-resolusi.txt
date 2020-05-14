@@ -3,3 +3,4 @@ NW RESOLUSI
 - Membuat Portal Info Les Privat
 - Membuat forum diskusi
 - Iklan Google
+- Mempelajari Google Cloud
