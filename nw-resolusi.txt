@@ -2,5 +2,5 @@ NW RESOLUSI
 - Belajar Kotlin
 - Membuat Portal Info Les Privat
 - Membuat forum diskusi
-- Iklan Google
+- Membuat fitur quiz
 - Mempelajari Google Cloud
